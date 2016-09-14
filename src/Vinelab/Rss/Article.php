@@ -46,4 +46,8 @@ class Article
     {
         return isset($this->info[$element]) ? $this->info[$element] : null;
     }
+
+    public function getAllData() {
+        return $this->info;
+    }
 }
