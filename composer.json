@@ -1,11 +1,15 @@
 {
-    "name": "vinelab/rss",
+    "name": "joelbarnard/rss",
     "description": "An elegant RSS 2.0 parser.",
     "license": "MIT",
     "authors": [
         {
             "name": "Abed Halawi",
             "email": "abed.halawi@vinelab.com"
+        },
+        {
+            "name" : "Joel Barnard",
+            "email" : "joel@joelbarnard.ca"
         }
     ],
     "require": {
